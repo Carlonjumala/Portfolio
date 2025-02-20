@@ -8,4 +8,7 @@ export DOTNET_ROOT=$HOME/.dotnet
 export PATH=$HOME/.dotnet:$HOME/.dotnet/tools:$PATH
 
 # Verify installation
-dotnet --version
+echo "Dotnet version: $(dotnet --version)"
+
+# Ensure the shell recognizes the new PATH
+exec bash
