@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Portfolio.Data;  // Correct namespace here
+using Portfolio.Data; 
 using Portfolio.Models;
 using Portfolio.Services;
 
