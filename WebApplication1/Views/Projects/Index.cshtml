@@ -1,0 +1,72 @@
+﻿@model List<Portfolio.Models.Project>
+
+<div class="projects-wrapper" data-aos="fade-up">
+    <button class="nav-button left" onclick="previousProject()">←</button>
+
+    <div class="project-display">
+        @if (Model.Count > 0)
+        {
+            var firstProject = Model.First();
+            <div id="current-project" class="project-card">
+                <div class="card shadow-lg">
+                    <img src="@firstProject.ImageUrl" class="card-img-top" alt="@firstProject.Title">
+                    <div class="card-body">
+                        <h5 class="card-title">@firstProject.Title</h5>
+                        <p class="card-text">@firstProject.Description</p>
+                        <a href="@firstProject.Link" target="_blank" class="btn btn-primary">View Project</a>
+
+                        @if (!string.IsNullOrEmpty(firstProject.VideoUrl))
+                        {
+                            <div class="ratio ratio-16x9 mt-3">
+                                <iframe src="@firstProject.VideoUrl" allowfullscreen></iframe>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <button class="nav-button right" onclick="nextProject()">→</button>
+</div>
+
+<!-- JavaScript -->
+<script>
+    let projects = @Html.Raw(Json.Serialize(Model));
+    let currentIndex = 0;
+
+    function updateProjectDisplay() {
+        let project = projects[currentIndex];
+        let projectContainer = document.getElementById("current-project");
+
+        // Fade-out animation before updating content
+        projectContainer.style.opacity = 0;
+
+        setTimeout(() => {
+            projectContainer.innerHTML = `
+                    <div class="card shadow-lg" data-aos="fade-up">
+                        <img src="${project.imageUrl}" class="card-img-top" alt="${project.title}">
+                        <div class="card-body">
+                            <h5 class="card-title">${project.title}</h5>
+                            <p class="card-text">${project.description}</p>
+                            <a href="${project.link}" target="_blank" class="btn btn-primary">View Project</a>
+                            ${project.videoUrl ? `<div class="ratio ratio-16x9 mt-3"><iframe src="${project.videoUrl}" allowfullscreen></iframe></div>` : ''}
+                        </div>
+                    </div>
+                `;
+
+            // Fade-in animation after updating content
+            projectContainer.style.opacity = 1;
+        }, 300); // Slight delay to create a smooth transition
+    }
+
+    function previousProject() {
+        currentIndex = (currentIndex - 1 + projects.length) % projects.length;
+        updateProjectDisplay();
+    }
+
+    function nextProject() {
+        currentIndex = (currentIndex + 1) % projects.length;
+        updateProjectDisplay();
+    }
+</script>

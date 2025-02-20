@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Portfolio.Models.Certification>
+
+<div class="container mt-5">
+    <h2 class="fw-bold text-center mb-4">Certifications</h2>
+
+    <div class="row justify-content-center">
+        @foreach (var certification in Model)
+        {
+            <div class="col-md-6">
+                <div class="card shadow-sm mb-4" data-aos="fade-up">
+                    <div class="card-body">
+                        <h4 class="card-title fw-bold">@certification.Name</h4>
+                        <p class="card-text"><strong>Issued by:</strong> @certification.Issuer</p>
+                        <p class="card-text"><strong>Obtained on:</strong> @certification.DateObtained.ToShortDateString()</p>
+
+                        @if (!string.IsNullOrEmpty(certification.CertificateUrl))
+                        {
+                            <a href="@certification.CertificateUrl" target="_blank" class="btn btn-primary">View Certificate</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
