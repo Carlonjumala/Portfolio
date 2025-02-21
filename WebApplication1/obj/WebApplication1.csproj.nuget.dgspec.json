@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\webapplication1\\WebApplication1.csproj": {}
+    "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\webapplication1\\WebApplication1.csproj": {
+    "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\webapplication1\\WebApplication1.csproj",
+        "projectUniqueName": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\webapplication1\\WebApplication1.csproj",
+        "projectPath": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Leevi\\.nuget\\packages\\",
-        "outputPath": "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\webapplication1\\obj\\",
+        "outputPath": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
