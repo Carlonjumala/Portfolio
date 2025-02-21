@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\WebApplication1\\WebApplication1.csproj": {}
+    "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\webapplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\WebApplication1\\WebApplication1.csproj": {
+    "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\webapplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\webapplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\webapplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Leevi\\.nuget\\packages\\",
-        "outputPath": "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\WebApplication1\\obj\\",
+        "outputPath": "F:\\Chessproject\\portfolio\\portfolio\\Portfolio\\webapplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -47,17 +53,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -79,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

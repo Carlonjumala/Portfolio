@@ -165,3 +165,6 @@ F:\Chessproject\portfolio\portfolio\Portfolio\WebApplication1\obj\Debug\net8.0\r
 F:\Chessproject\portfolio\portfolio\Portfolio\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 F:\Chessproject\portfolio\portfolio\Portfolio\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 F:\Chessproject\portfolio\portfolio\Portfolio\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+F:\Chessproject\portfolio\portfolio\Portfolio\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
+F:\Chessproject\portfolio\portfolio\Portfolio\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Chessproject\portfolio\portfolio\Portfolio\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
