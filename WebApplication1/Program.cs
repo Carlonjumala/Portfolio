@@ -24,7 +24,7 @@ using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
     var context = services.GetRequiredService<ApplicationDbContext>();
-    SeedData.Initialize(services, context);
+    context.Database.Migrate(); // Apply migrations at startup
 }
 
 if (!app.Environment.IsDevelopment())
