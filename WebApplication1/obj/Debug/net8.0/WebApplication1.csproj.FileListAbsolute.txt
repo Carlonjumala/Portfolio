@@ -338,4 +338,3 @@ F:\Chessproject\portfolio\Portfolio\webapplication1\obj\Debug\net8.0\refint\WebA
 F:\Chessproject\portfolio\Portfolio\webapplication1\obj\Debug\net8.0\WebApplication1.pdb
 F:\Chessproject\portfolio\Portfolio\webapplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 F:\Chessproject\portfolio\Portfolio\webapplication1\obj\Debug\net8.0\ref\WebApplication1.dll
-F:\Chessproject\portfolio\Portfolio\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

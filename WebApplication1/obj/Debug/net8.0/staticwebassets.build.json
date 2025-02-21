@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zIzfrX91MvAcO+9v2jGjy7nkLXkkN5wHgVs/M1V/UZo=",
+  "Hash": "nylizEL/3wHHrNS0Xz+lndCY4eBOZ9IRFYQSu+yUixc=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication1\\wwwroot",
       "Source": "WebApplication1",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
       "SourceId": "WebApplication1",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "WebApplication1#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "JIHtoqiOEx4n3EfUawAxIBUQYPMUUOLVg6HW7014bxo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css"
+      "OriginalItemSpec": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
       "SourceId": "WebApplication1",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "WebApplication1#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "JIHtoqiOEx4n3EfUawAxIBUQYPMUUOLVg6HW7014bxo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
+      "OriginalItemSpec": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\css\\site.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\css\\site.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\favicon.ico",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\favicon.ico",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\images\\profile.jpg",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\images\\profile.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/profile#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile.jpg"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\js\\site.js",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\js\\site.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,94 +143,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ozu22stjof",
-      "Integrity": "ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "6gzpyzhau4",
-      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "gjcw7pocpk",
-      "Integrity": "hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "6l4ir0ityv",
-      "Integrity": "ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +395,94 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ozu22stjof",
+      "Integrity": "ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gjcw7pocpk",
+      "Integrity": "hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6l4ir0ityv",
+      "Integrity": "ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -626,178 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "7s2n0ol71w",
-      "Integrity": "KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ehgnz7f14e",
-      "Integrity": "zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mlv21k5csn",
-      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wus95c49fh",
-      "Integrity": "qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "sjab29p8z5",
-      "Integrity": "2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "d2pxujwhw3",
-      "Integrity": "27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "4dm14o4hmc",
-      "Integrity": "eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "x0q3zqp4vz",
-      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -815,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -836,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -855,12 +687,180 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wus95c49fh",
+      "Integrity": "qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sjab29p8z5",
+      "Integrity": "2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d2pxujwhw3",
+      "Integrity": "27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4dm14o4hmc",
+      "Integrity": "eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0q3zqp4vz",
+      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7s2n0ol71w",
+      "Integrity": "KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ehgnz7f14e",
+      "Integrity": "zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlv21k5csn",
+      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     }
   ],
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\css\\site.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -897,7 +897,7 @@
     },
     {
       "Route": "css/site.t95akqp2wb.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\css\\site.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -942,7 +942,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\favicon.ico",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -987,7 +987,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\favicon.ico",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1024,7 +1024,7 @@
     },
     {
       "Route": "images/profile.hownzdf4or.jpg",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\images\\profile.jpg",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\images\\profile.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1069,7 +1069,7 @@
     },
     {
       "Route": "images/profile.jpg",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\images\\profile.jpg",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\images\\profile.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1106,7 +1106,7 @@
     },
     {
       "Route": "js/site.6b9nfc4n3r.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\js\\site.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1151,7 +1151,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\js\\site.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1187,336 +1187,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "215356"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162726"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6gzpyzhau4"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162726"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "215356"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ozu22stjof"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "214999"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "214999"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gjcw7pocpk"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162831"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6l4ir0ityv"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162831"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1553,7 +1225,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1598,7 +1270,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1635,7 +1307,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1680,7 +1352,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1717,7 +1389,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1762,7 +1434,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1799,7 +1471,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1844,7 +1516,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1881,7 +1553,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1918,7 +1590,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1963,7 +1635,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2008,7 +1680,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2053,7 +1725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2090,7 +1762,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2127,7 +1799,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2172,7 +1844,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2209,7 +1881,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2254,7 +1926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2291,7 +1963,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2328,7 +2000,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2365,7 +2037,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2410,7 +2082,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2455,7 +2127,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2499,8 +2171,336 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ozu22stjof"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZMvmWDSU4zY1Z29EQGm5Mubfz/YxF4hiReGqx84o4tA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjcw7pocpk"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6l4ir0ityv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2545,7 +2545,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2590,7 +2590,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2627,7 +2627,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2672,7 +2672,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2709,7 +2709,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2746,7 +2746,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2791,7 +2791,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2828,7 +2828,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2873,7 +2873,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2910,7 +2910,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2955,7 +2955,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2992,7 +2992,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3029,7 +3029,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3073,664 +3073,8 @@
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "299461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7s2n0ol71w"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "299461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89503"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ehgnz7f14e"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89503"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mlv21k5csn"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/LICENSE.txt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43184"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18467"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18467"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sjab29p8z5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43184"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wus95c49fh"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/additional-methods.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "50276"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d2pxujwhw3"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/jquery.validate.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "50276"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23264"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4dm14o4hmc"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23264"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/markdown"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/markdown"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "x0q3zqp4vz"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/LICENSE.md"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
-        }
-      ]
-    },
-    {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3775,7 +3119,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3812,7 +3156,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3857,7 +3201,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3894,7 +3238,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3939,7 +3283,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3975,8 +3319,664 @@
       ]
     },
     {
+      "Route": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjab29p8z5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wus95c49fh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d2pxujwhw3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dm14o4hmc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.md",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0q3zqp4vz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "299461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7s2n0ol71w"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "299461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehgnz7f14e"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlv21k5csn"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 10:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+        }
+      ]
+    },
+    {
       "Route": "WebApplication1.bundle.scp.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4013,7 +4013,7 @@
     },
     {
       "Route": "WebApplication1.styles.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4050,7 +4050,7 @@
     },
     {
       "Route": "WebApplication1.wh6hypu0ky.bundle.scp.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4095,7 +4095,7 @@
     },
     {
       "Route": "WebApplication1.wh6hypu0ky.styles.css",
-      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
+      "AssetFile": "F:\\Chessproject\\portfolio\\Portfolio\\webapplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
