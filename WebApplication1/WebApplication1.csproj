@@ -9,7 +9,11 @@
   <ItemGroup>
     <None Include="wwwroot\images\profile.jpg" />
   </ItemGroup>
-
+  
+  <ItemGroup>
+    <None Update="WebApplication1\portfolio.db" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+  
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
